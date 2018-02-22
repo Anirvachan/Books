@@ -7,3 +7,4 @@
 #### Docker In Action - Jeff Nickoloff
 #### React In Action - Mark Tielens Thomas
 #### Node.js In Action - Mike Cantleton
+#### Web Workers - Ido Green
