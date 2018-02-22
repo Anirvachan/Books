@@ -8,3 +8,14 @@
 #### React In Action - Mark Tielens Thomas
 #### Node.js In Action - Mike Cantleton
 #### Web Workers - Ido Green
+#### WordPress, The Missing Manual - Matthew MacDonald
+#### Programming Collective Intelligence - Toby Segaran
+#### Computer Networks - Andrew Tanenbaum
+#### Mastering Emacs - Mickey Petersen
+#### Deep Learning with Python - Francois Chollet
+#### Bobby Fischer Teaches Chess - Bobby Fischer
+#### AWS In Action - Andreas Wittig
+#### Secrets Of The JavaScript NInja - John Resig
+#### Fluent Python - Luciano Ramalho
+#### Computer Architecture - Hennessy and Patterson
+#### Meditations - Marcus Aurelius
