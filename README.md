@@ -19,3 +19,5 @@
 #### Fluent Python - Luciano Ramalho
 #### Computer Architecture - Hennessy and Patterson
 #### Meditations - Marcus Aurelius
+#### Psychology: Pythagoras To Present - John Malone
+#### Strength In Stillness - Bob Roth
