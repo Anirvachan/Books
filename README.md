@@ -26,3 +26,5 @@
 #### Operating System Concepts - Silberschatz, Galvin, Gagne
 #### Compilers - Aho, Ullman, Sethi
 #### The Snowball - Alice Schroeder
+#### CORS In Action - Monsur Hossain
+#### CSS In Depth - Keith Grant
