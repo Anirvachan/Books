@@ -22,3 +22,4 @@
 #### Psychology: Pythagoras To Present - John Malone
 #### Strength In Stillness - Bob Roth
 #### Principles Of Astrophysics - Charles Keeton
+#### Algorithms - Cormen, Lieserson, Rivest, Stein
