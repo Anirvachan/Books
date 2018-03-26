@@ -29,3 +29,4 @@
 #### CORS In Action - Monsur Hossain
 #### CSS In Depth - Keith Grant
 #### Typescript Deep Dive - Basarat Ali Syed
+#### Calculus - Michael Spivak
