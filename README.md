@@ -35,3 +35,4 @@
 #### The Iliad - Homer
 #### The Aeneid - Virgil
 #### Napoleon - Andrew Roberts
+#### Alexander of Macedon - Peter Green
