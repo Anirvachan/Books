@@ -34,3 +34,4 @@
 #### The story of Civilization (Vol I - XI) - Will Durant
 #### The Iliad - Homer
 #### The Aeneid - Virgil
+#### Napoleon - Andrew Roberts
