@@ -39,3 +39,4 @@
 #### The Complete Works of Plato - Plato
 #### Reinforcement Learning - Sutton and Barto
 #### Odyssey - Homer
+#### Coding The Matrix - Philip Klein
