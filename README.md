@@ -42,3 +42,4 @@
 #### Coding The Matrix - Philip Klein
 #### The Fountainhead - Ayn Rand
 #### Atlas Shrugged - Ayn Rand
+#### Computer Organization and Design : The Hardware Software Interface - Hennessy and Patterson
