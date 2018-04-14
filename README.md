@@ -43,3 +43,4 @@
 #### The Fountainhead - Ayn Rand
 #### Atlas Shrugged - Ayn Rand
 #### Computer Organization and Design : The Hardware Software Interface - Hennessy and Patterson
+#### Computational Complexity - Sanjeev Arora and Boez Barak
