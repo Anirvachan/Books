@@ -40,3 +40,4 @@
 #### Reinforcement Learning - Sutton and Barto
 #### Odyssey - Homer
 #### Coding The Matrix - Philip Klein
+#### The Fountainhead - Ayn Rand
