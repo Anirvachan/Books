@@ -46,3 +46,4 @@
 #### Computational Complexity - Sanjeev Arora and Boez Barak
 #### Mathematics for Computer Science - Lehman and Leighton
 #### How Not To Be Wrong - Jordan Ellenberg
+#### RabbitMQ In Depth - Gavin M. Roy
