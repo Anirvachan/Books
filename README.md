@@ -47,3 +47,4 @@
 #### Mathematics for Computer Science - Lehman and Leighton
 #### How Not To Be Wrong - Jordan Ellenberg
 #### RabbitMQ In Depth - Gavin M. Roy
+#### Programming Robots With ROS - Morgan Quigley, Brian Gerkey, William Smart
