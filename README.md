@@ -48,3 +48,6 @@
 #### How Not To Be Wrong - Jordan Ellenberg
 #### RabbitMQ In Depth - Gavin M. Roy
 #### Programming Robots With ROS - Morgan Quigley, Brian Gerkey, William Smart
+#### The Intelligent Investor - Benjamin Graham
+#### Security Analysis - Graham and Dodd
+#### The Wealth Of Nations - Adam Smith
